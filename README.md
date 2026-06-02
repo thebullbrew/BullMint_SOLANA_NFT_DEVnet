@@ -1,4 +1,4 @@
-# BullMint-Solana-NFT-War-Room
+# BullMint_SOLANA_NFT_DEVnet
 Start to finish Devnet React app that connects a Solana wallet and mints a standard Solana NFT using Metaplex Token Metadata through Umi.
 
 
