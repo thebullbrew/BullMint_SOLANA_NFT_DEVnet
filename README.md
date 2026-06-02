@@ -398,8 +398,8 @@ Behind the scenes, your app does this:
 The NFT’s visible info would come from your metadata file:
 
 {
-  "name": "My First Solana NFT",
-  "symbol": "JOAO",
+  "name": "BEST SOL NFT EVER",
+  "symbol": "THEBULLBREW",
   "description": "My first Solana NFT minted on Devnet using Metaplex Umi.",
   "image": "https://gateway.pinata.cloud/ipfs/your-image-cid"
 }
@@ -407,8 +407,8 @@ The NFT’s visible info would come from your metadata file:
 
 So in a wallet or explorer, the NFT should eventually show:
 
-Name: My First Solana NFT
-Symbol: JOAO
+Name: BEST SL NFT EVER
+Symbol: THEBULLBREW
 Image: your uploaded image
 Owner: your Phantom wallet
 Network: Devnet
